@@ -1,0 +1,1 @@
+Example project to show how to use Google Credentials with a Next.js project
