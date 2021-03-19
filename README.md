@@ -1,4 +1,4 @@
-Example project to show how to use Google Credentials with a Next.js project
+Example project to show how to use Google Vision API with Google Credentials with a Next.js project
 
 ### WIP
 
